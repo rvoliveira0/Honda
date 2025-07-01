@@ -1,2 +1,8 @@
 server:
   port: 8081
+
+spring:
+  application:
+    name: hello-service
+
+message: Hello from GitHub config repo!
